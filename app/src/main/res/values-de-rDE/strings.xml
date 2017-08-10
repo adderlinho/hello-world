@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HalloWelt</string>
+    <string name="titulo_app">Willkommen</string>
+    <string name="descripcion">Dieser Text ändert sich entsprechend der Sprache.</string>
+    <string name="btn_inicio">Klicken</string>
+</resources>
